@@ -1,6 +1,7 @@
 ### Hi there 👋
-### 🔭 I’m currently working on "La Fabrique du Café" Stage de 5 semaines pendant les "vacances"
-### 💬 Ask me about Stage et Alternance
+### 🔭 I’m currently working on "MCMP" Moto Club Millau Passion"
+### 🌱 I'm currently learning Ajax
+### 💬 Ask me about Stage et Alternance 
 ### 📫 How to reach me: benoit.bertrand@2isa.org 
 ![image](https://github.com/Boutanche/Boutanche/blob/master/dino.gif)
 <!--
