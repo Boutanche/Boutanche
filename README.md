@@ -1,5 +1,5 @@
 ### Hi there 👋
-### ⚡ Je suis étudiant : Tout ce qui se trouve ici est : "Code Poubelle !"
+### ⚡ Je suis étudiant : Tout ce qui se trouve ici est : "Code Poubelle !" d'un étudiant qui fait des choses qui fonctionnent mais pas propre.
 ### 🔭 I’m currently working on "MCMP" Moto Club Millau Passion".
 ### 🌱 I'm currently learning Ajax.
 ### 💬 Ask me about Stage et Alternance du 14 décembre 2020 au 12 mars 2021.
