@@ -1,7 +1,7 @@
 ### Hi there 👋
-### ⚡ Je suis étudiant : Tout ce qui se trouve ici est : "Code Poubelle !" d'un étudiant qui fait des choses qui fonctionnent mais qui ne sont pas "propres".
+### ⚡ Je suis étudiant : ici je montre mon "Code Poubelle !".
 ### 🔭 I’m currently working on "MCMP" Moto Club Millau Passion".
-### 🌱 I'm currently learning Ajax.
+### 🌱 I'm currently learning Desktop : C# Windows Form.
 ### 💬 Ask me about Stage et Alternance du 14 décembre 2020 au 12 mars 2021.
 ### 🤔 Pour arrêter le "Code Poubelle" j'ai besoin de rejoindre une équipe de dev et continuer à monter en compétences.
 ### 📫 How to reach me: benoit.bertrand@2isa.org 
