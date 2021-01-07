@@ -2,7 +2,7 @@
 ### ⚡ Je suis étudiant : ici je montre mon "Code Poubelle !".
 ### 🔭 I’m currently working on Angular.
 ### 🌱 I'm currently learning TypeScript / Node.js / MongoDB.
-### 😄 I'm currently lokking to collaborate on CRUD_project with "Superdev" at Limoges
+### 😄 I'm currently looking to collaborate on CRUD_project with "Superdev" at Limoges
 ### 🤔 Pour arrêter le "Code Poubelle" j'ai besoin de rejoindre une équipe de dev et continuer à monter en compétences.
 ### 📫 How to reach me: benoit.bertrand@2isa.org 
 ![image](https://github.com/Boutanche/Boutanche/blob/master/dino.gif)
