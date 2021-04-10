@@ -1,10 +1,9 @@
 ### Hi there 👋
-### ⚡ Je suis étudiant : ici je montre mon "Code Poubelle !".
-### 🔭 I’m currently working on Angular.
-### 🌱 I'm currently learning TypeScript / Node.js / MongoDB.
-### 😄 I'm currently looking to collaborate on CRUD_project with "Superdev" at Limoges
-### 🤔 Pour arrêter le "Code Poubelle" j'ai besoin de rejoindre une équipe de dev et continuer à monter en compétences.
-### 📫 How to reach me: benoit.bertrand@2isa.org 
+### ⚡ Je suis Concepteur Développeur d'Applications (titre pro niveau bac+3/4).
+### 🔭 Je recherche actuellement une entreprise pour m'acceuillir en stage et en alternance à la rentrée 2021.
+### 🌱 Dernièrement j'ai effectué un stage de 3 mois sur deux projets Angular / Node.js / MongoDB.
+### 🤔 J'ai besoin de rejoindre une équipe de dev et continuer à monter en compétences.
+### 📫 How to reach me: benoit.bertrand@2isa.org  
 ![image](https://github.com/Boutanche/Boutanche/blob/master/dino.gif)
 <!--
 **Boutanche/Boutanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
