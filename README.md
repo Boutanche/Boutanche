@@ -1,6 +1,5 @@
 ### Hi there 👋
 ### ⚡ J'ai une Licence générale en Informatique (bac+3).
-### ⚡ Je suis Concepteur Développeur d'Applications (titre pro niveau bac+3/4).
 ### ⚡ Je valide actuellement un diplôme Ingénieur en informatique. Architecture et intégration des systèmes et des logiciels.
 
 ### 📫 How to reach me: benoit.bertrand@2isa.org  
