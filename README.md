@@ -1,8 +1,8 @@
 ### Hi there 👋
+### ⚡ J'ai une Licence générale en Informatique (bac+3).
 ### ⚡ Je suis Concepteur Développeur d'Applications (titre pro niveau bac+3/4).
-### 🔭 Je recherche actuellement une entreprise pour m'acceuillir en stage et en alternance à la rentrée 2021.
-### 🌱 Dernièrement j'ai effectué un stage de 3 mois sur deux projets Angular / Node.js / MongoDB.
-### 🤔 J'ai besoin de rejoindre une équipe de dev et continuer à monter en compétences.
+### ⚡ Je valide actuellement un diplôme Ingénieur en informatique. Architecture et intégration des systèmes et des logiciels.
+
 ### 📫 How to reach me: benoit.bertrand@2isa.org  
 ![image](https://github.com/Boutanche/Boutanche/blob/master/dino.gif)
 <!--
@@ -10,12 +10,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "La Fabrique du Café" Stage de 5 semaines pendant les "vacances"
-- 🌱 I’m currently learning Php/Ajax/Python
-- 👯 I’m looking to collaborate on "CRUD_project" with Superdev at Limoges
+- 🔭 I’m currently working on "P****t P****t" at Neosoft
+- 🌱 I’m currently learning Java/Angular/Gestion des ressources humaines
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about Stage et Alternance
-- 📫 How to reach me: benoit@bbinformatique.fr
+- 💬 Ask me about Stage, Alternance, Jobs
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
