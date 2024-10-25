@@ -2,7 +2,7 @@
 ### ⚡ J'ai une Licence générale en Informatique (bac+3).
 ### ⚡ Je valide actuellement un diplôme Ingénieur en informatique. Architecture et intégration des systèmes et des logiciels.
 
-### 📫 How to reach me: benoit.bertrand@2isa.org  
+### 📫 How to reach me: cd3bert@gmail.com
 ![image](https://github.com/Boutanche/Boutanche/blob/master/dino.gif)
 <!--
 **Boutanche/Boutanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
